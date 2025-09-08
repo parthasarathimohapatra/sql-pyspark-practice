@@ -1,1 +1,2 @@
+/* My SQL */
 select product_id from products where low_fats and recyclable ='Y'
