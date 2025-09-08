@@ -1,0 +1,2 @@
+%sql
+select empu.unique_id,emp.name from employees as emp left join employee_uni as empu on emp.id= empu.id
